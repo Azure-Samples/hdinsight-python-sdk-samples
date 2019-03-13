@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Virtual environment
+*env*/
+
+# settings
+sample_settings.py
+
+# Visual Studio Code
+.vscode/
