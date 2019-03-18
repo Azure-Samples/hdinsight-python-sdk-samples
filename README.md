@@ -54,6 +54,8 @@ All samples in this folder require:
     pip install -r requirements.txt
     ```
 
+3.  In the samples folder, rename `sample_settings.py.template` to `sample_settings.py` and fill it with the correct information.
+
 ## Demo
 
 To run each individual demo, point directly to the file. For example:

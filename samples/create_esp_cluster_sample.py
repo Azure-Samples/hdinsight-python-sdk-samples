@@ -95,7 +95,7 @@ def main():
         )
     )
 
-    print('Start to create HDInsight Spark cluster {} with Enterprise Security Package'.format(CLUSTER_NAME))
+    print('Starting to create HDInsight Spark cluster {} with Enterprise Security Package'.format(CLUSTER_NAME))
     client.clusters.create(RESOURCE_GROUP_NAME, CLUSTER_NAME, create_params)
 
 

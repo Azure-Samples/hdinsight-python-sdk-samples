@@ -87,7 +87,7 @@ def main():
         )
     )
 
-    print('Start to create HDInsight Kafka cluster {}'.format(CLUSTER_NAME))
+    print('Starting to create to create HDInsight Kafka cluster {}'.format(CLUSTER_NAME))
     client.clusters.create(RESOURCE_GROUP_NAME, CLUSTER_NAME, create_params)
 
 

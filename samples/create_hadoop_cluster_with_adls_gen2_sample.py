@@ -79,7 +79,7 @@ def main():
         )
     )
 
-    print('Start to create HDInsight Hadoop cluster {} with Azure Data Lake Storage Gen2'.format(CLUSTER_NAME))
+    print('Starting to create HDInsight Hadoop cluster {} with Azure Data Lake Storage Gen2'.format(CLUSTER_NAME))
     client.clusters.create(RESOURCE_GROUP_NAME, CLUSTER_NAME, create_params)
 
 
