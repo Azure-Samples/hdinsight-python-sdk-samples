@@ -1,12 +1,18 @@
+---
+services: hdinsight
+platforms: python
+author: tylerfox
+ms.author: tyfox
+---
+
 # [HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) Python SDK Samples
 
 This repo provides samples for the [HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) Python SDK.
-**If you are interetsed in running a specific example, you can navigate to the corresponding subfolder and check out the individual Readme.**
 
 ## Features
 
 Samples showing use of the [HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) Python SDK.
-Idea behind these samples is to showcase 1) how to utilize Python SDK and 2) best practices while handling data for/from these APIs.
+The idea behind these samples is to showcase 1) how to utilize the HDInsight Python SDK and 2) best practices for handling data associated with these APIs.
 
 ## Getting Started
 
@@ -54,6 +60,8 @@ All samples in this folder require:
     pip install -r requirements.txt
     ```
 
+3.  In the samples folder, rename `sample_settings.py.template` to `sample_settings.py` and fill it with the correct information.
+
 ## Demo
 
 To run each individual demo, point directly to the file. For example:
@@ -63,6 +71,7 @@ To run each individual demo, point directly to the file. For example:
 
 ## Resources
 
-- Project page for HDInsight offerings and demos: <https://azure.microsoft.com/en-us/services/hdinsight>
-- Azure HDInsight management SDK documentation: <https://azure.microsoft.com/en-us/blog/new-azure-hdinsight-management-sdk-now-in-public-preview/>
-- HDInsight C# SDK samples: <https://github.com/Azure-Samples/hdinsight-dotnet-sdk-samples>
+- Azure HDInsight Python SDK documentation: <https://docs.microsoft.com/en-us/python/api/overview/azure/hdinsight?view=azure-python>
+- HDInsight .NET SDK samples: <https://github.com/Azure-Samples/hdinsight-dotnet-sdk-samples>
+- HDInsight Java SDK samples: <https://github.com/Azure-Samples/hdinsight-java-sdk-samples>
+- HDInsight Documentation: <https://docs.microsoft.com/en-us/azure/hdinsight/>
