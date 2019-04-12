@@ -5,14 +5,14 @@ author: tylerfox
 ms.author: tyfox
 ---
 
-# [HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) SDK for Python Samples
+# Azure [HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) SDK for Python Samples
 
-This repo provides samples for the [HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) SDK for Python.
+This repo provides samples for the Azure [HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) SDK for Python.
 
 ## Features
 
-Samples showing use of the [HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) SDK for Python.
-The idea behind these samples is to showcase 1) how to utilize the HDInsight SDK for Python and 2) best practices for handling data associated with these APIs.
+Samples showing use of the Azure [HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) SDK for Python.
+The idea behind these samples is to showcase 1) how to utilize the Azure HDInsight SDK for Python and 2) best practices for handling data associated with these APIs.
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ The idea behind these samples is to showcase 1) how to utilize the HDInsight SDK
 All samples in this folder require:
 
 - [Python](https://www.python.org/downloads/)
-- [HDInsight SDK for Python](https://pypi.org/project/azure-mgmt-hdinsight)
+- [Azure HDInsight SDK for Python](https://pypi.org/project/azure-mgmt-hdinsight)
 
 ### Quickstart
 
@@ -60,6 +60,6 @@ Install and initialize the virtual environment with the "venv" module on Python 
 ## Resources
 
 - [Azure HDInsight SDK for Python documentation](https://docs.microsoft.com/python/api/overview/azure/hdinsight?view=azure-python)
-- [HDInsight .NET samples](https://github.com/Azure-Samples/hdinsight-dotnet-sdk-samples)
-- [HDInsight Java samples](https://github.com/Azure-Samples/hdinsight-java-sdk-samples)
-- [HDInsight Documentation](https://docs.microsoft.com/azure/hdinsight/)
+- [Azure HDInsight .NET samples](https://github.com/Azure-Samples/hdinsight-dotnet-sdk-samples)
+- [Azure HDInsight Java samples](https://github.com/Azure-Samples/hdinsight-java-sdk-samples)
+- [Azure HDInsight Documentation](https://docs.microsoft.com/azure/hdinsight/)
