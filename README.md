@@ -59,7 +59,7 @@ Install and initialize the virtual environment with the "venv" module on Python 
 
 ## Resources
 
-- [Azure HDInsight .NET SDK documentation](https://docs.microsoft.com/dotnet/api/overview/azure/hdinsight?view=azure-dotnet)
-- [HDInsight .NET SDK samples](https://github.com/Azure-Samples/hdinsight-dotnet-sdk-samples)
-- [HDInsight Java SDK samples](https://github.com/Azure-Samples/hdinsight-java-sdk-samples)
+- [Azure HDInsight SDK for Python documentation](https://docs.microsoft.com/python/api/overview/azure/hdinsight?view=azure-python)
+- [HDInsight .NET samples](https://github.com/Azure-Samples/hdinsight-dotnet-sdk-samples)
+- [HDInsight Java samples](https://github.com/Azure-Samples/hdinsight-java-sdk-samples)
 - [HDInsight Documentation](https://docs.microsoft.com/azure/hdinsight/)
