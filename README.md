@@ -52,9 +52,7 @@ Install and initialize the virtual environment with the "venv" module on Python 
 
 3.  In the samples folder, rename `sample_settings.py.template` to `sample_settings.py` and fill it with the correct information.
 
-## Demo
-
-To run each individual demo, point directly to the file. For example:
+4. To run each individual demo, point directly to the file. For example:
 
 - `python samples/create_spark_cluster_sample.py`
 - `python samples/create_kafka_cluster_sample.py`
