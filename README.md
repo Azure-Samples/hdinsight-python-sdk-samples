@@ -5,11 +5,11 @@ author: tylerfox
 ms.author: tyfox
 topic: sample
 languages:
-  - java
+  - python
 products:
   - azure-hdinsight
-name: Azure HDInsight SDK for Java Samples
-urlFragment: azure-hdinsight-sdk-for-java-samples
+name: Azure HDInsight SDK for Python Samples
+urlFragment: azure-hdinsight-sdk-for-python-samples
 ---
 
 # Azure [HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) SDK for Python Samples
