@@ -3,6 +3,13 @@ services: hdinsight
 platforms: python
 author: tylerfox
 ms.author: tyfox
+topic: sample
+languages:
+  - java
+products:
+  - azure-hdinsight
+name: Azure HDInsight SDK for Java Samples
+urlFragment: azure-hdinsight-sdk-for-java-samples
 ---
 
 # Azure [HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) SDK for Python Samples
