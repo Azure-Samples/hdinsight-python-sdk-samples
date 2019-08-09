@@ -1,19 +1,16 @@
 ---
-services: hdinsight
-platforms: python
-author: tylerfox
-ms.author: tyfox
 page_type: sample
-topic: sample
 languages:
   - python
 products:
+  - azure
   - azure-hdinsight
 name: Azure HDInsight SDK for Python Samples
 urlFragment: azure-hdinsight-sdk-for-python-samples
+description: "This repo provides samples for the Azure HDInsight SDK for Python."
 ---
 
-# Azure [HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) SDK for Python Samples
+# Azure HDInsight SDK for Python Samples
 
 This repo provides samples for the Azure [HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) SDK for Python.
 
