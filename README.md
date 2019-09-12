@@ -1,13 +1,10 @@
 ---
 page_type: sample
 languages:
-  - python
 products:
-  - azure
-  - azure-hdinsight
-name: Azure HDInsight SDK for Python Samples
-urlFragment: azure-hdinsight-sdk-for-python-samples
+- azure
 description: "This repo provides samples for the Azure HDInsight SDK for Python."
+urlFragment: hdinsight-python-sdk-samples
 ---
 
 # Azure HDInsight SDK for Python Samples
