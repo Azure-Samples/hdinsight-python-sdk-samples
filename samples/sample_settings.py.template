@@ -19,7 +19,7 @@ SUBSCRIPTION_ID = '00000000-0000-0000-0000-000000000000'
 # The name for the cluster you are creating. The name must be unique, 59 characters or less,
 # and can contain letters, numbers, and hyphens (but the first and last character must be a letter or number).
 # Required by all the samples.
-CLUSTER_NAME = 'hdisamplecluster' + random.randint(1000, 10000)
+CLUSTER_NAME = 'hdisamplecluster' + str(random.randint(1000, 10000))
 
 # Choose a region. i.e. "East US 2".
 # Required by all the samples.
@@ -61,7 +61,7 @@ BLOB_ENDPOINT_SUFFIX = '.blob.core.windows.net'
 
 # Blob storage account container name
 # Required by all the samples except `create_hadoop_cluster_with_adls_gen2_sample`
-CONTAINER_NAME = 'container' + random.randint(1000, 10000)
+CONTAINER_NAME = 'container' + str(random.randint(1000, 10000))
 
 # Dfs Storage endpoint suffix.
 # Required by `create_hadoop_cluster_with_adls_gen2_sample`
